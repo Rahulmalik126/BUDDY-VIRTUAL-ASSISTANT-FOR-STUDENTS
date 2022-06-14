@@ -147,7 +147,7 @@ def tellDay():
         label.pack()
 
 
-def tellTime():
+def tellTime():#this function will tell time 
     time = str(datetime.datetime.now())
 
     print(time)
