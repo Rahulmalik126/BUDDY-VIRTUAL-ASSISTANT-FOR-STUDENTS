@@ -178,7 +178,7 @@ def takeCommand():
             return "None"
         return statement
 
-wishMe()
+wishMe() # Calling the wishme function
 
 print('Respected Shruti Mam, Anubhuti Mam and Himani Mam. I am Buddy, your basic model virtual assistant.')
 speak("Respected Shruti Mam, Anubhuti Mam and Himani Mam. I am Buddy, your basic model virtual assistant.")
