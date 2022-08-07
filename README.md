@@ -3,5 +3,4 @@
 >• Clustering for segmenting the data into clusters.</br>
 >• Used NLP for speech-to-text conversion.</br>
 >• GUI is designed with the help of Tkintertools.</br>
-![]https://github.com/Rahulmalik126/BUDDY-VIRTUAL-ASSISTANT-FOR-STUDENTS/blob/main/buddya.gif
 
